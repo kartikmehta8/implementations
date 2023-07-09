@@ -25,6 +25,7 @@ jobs:
           
       - name: Branch
         run: |
+          git config --global init.defaultBranch main
           git checkout main
           git pull origin main
 
