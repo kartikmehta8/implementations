@@ -5,11 +5,16 @@
   - [next_greater_element_i.cpp](stack/next_greater_element_i.cpp)
   - [balenced_parenthesis.cpp](stack/balenced_parenthesis.cpp)
 - binary_search
+  - [search_in_rotated_sorted_array_i.cpp](binary_search/search_in_rotated_sorted_array_i.cpp)
+  - [search_in_rotated_sorted_array_ii.cpp](binary_search/search_in_rotated_sorted_array_ii.cpp)
+  - [find_minimum_in_rotated_sorted_array.cpp](binary_search/find_minimum_in_rotated_sorted_array.cpp)
+  - [single_element_in_a_sorted_array.cpp](binary_search/single_element_in_a_sorted_array.cpp)
   - [first_and_last_occurence_of_element.cpp](binary_search/first_and_last_occurence_of_element.cpp)
   - [binary_search.cpp](binary_search/binary_search.cpp)
   - [search_insert_position.cpp](binary_search/search_insert_position.cpp)
   - [lower_bound.cpp](binary_search/lower_bound.cpp)
   - [upper_bound.cpp](binary_search/upper_bound.cpp)
+  - [find_how_many_times_array_is_rotated.cpp](binary_search/find_how_many_times_array_is_rotated.cpp)
   - [ceil_and_floor.cpp](binary_search/ceil_and_floor.cpp)
 - arrays
   - [missing_number.cpp](arrays/missing_number.cpp)
