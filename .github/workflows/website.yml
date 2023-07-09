@@ -1,0 +1,27 @@
+name: Deploy to Markdown Pages
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Generate Markdown files
+      run: |
+        mkdir -p docs
+        find . -name '*.cpp' -type f -exec sh -c 'pygmentize -f markdown -o "docs/${1%.cpp}.md" "{}"' _ {} \;
+
+    - name: Create index file
+      run: echo "- [Home](README.md)" > docs/_index.md
+
+    - name: Deploy to Markdown Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
