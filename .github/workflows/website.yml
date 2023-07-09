@@ -25,11 +25,8 @@ jobs:
           
       - name: Branch
         run: |
-          git branch -m master main
-          git push -u origin main
-          git add .
-          git commit -m "jekyll_website"
-          git push origin main
+          git checkout main
+          git pull origin main
 
       - name: Build and deploy
         run: |
