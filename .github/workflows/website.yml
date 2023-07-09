@@ -27,7 +27,7 @@ jobs:
         run: git fetch
 
       - name: Switch to main branch
-        run: git checkout main
+        run: git checkout gh-pages
 
       - name: Build and deploy
         run: |
