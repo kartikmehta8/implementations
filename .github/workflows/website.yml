@@ -1,4 +1,5 @@
-name: Deploy to Markdown Pages
+name: Jekyll Build
+
 on:
   push:
     branches:
@@ -9,23 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    
-    - name: Install highlight
-      run: sudo apt-get install -y highlight
-      
-    - name: Make Directory Docs
-      run: mkdir -p docs
-    
-    - name: Generate Markdown files
-      run: find . -name '*.cpp' -type f -exec sh -c 'highlight -O html -s monokai "{}" > "docs/${1%.cpp}.md"' _ {} \;
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Create index file
-      run: echo "- [Home](README.md)" > docs/_index.md
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
 
-    - name: Deploy to Markdown Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build and deploy
+        run: |
+          bundle exec jekyll build --destination ./_site
+          cd ./_site
+          git init
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "Deploy website"
+          git push --force "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" master:gh-pages
