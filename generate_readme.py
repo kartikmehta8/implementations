@@ -8,10 +8,11 @@ def generate_content():
             if root == '.':
                 continue
             directory = root.lstrip('./')
-            readme.write(f"- {directory}\n")
+            if directory in ["arrays", "binary_search", "hashing", "stack", "tries"]:
+                readme.write(f"- {directory}\n")
             
-            for file in files:
-                readme.write(f"  - [{file}]({os.path.join(directory, file)})\n")
+                for file in files:
+                    readme.write(f"  - [{file}]({os.path.join(directory, file)})\n")
 
 if __name__ == '__main__':
     generate_content()
