@@ -22,6 +22,12 @@ jobs:
         run: |
           gem install bundler
           bundle install
+          
+      - name: Fetch latest changes
+        run: git fetch
+
+      - name: Switch to main branch
+        run: git checkout main
 
       - name: Build and deploy
         run: |
