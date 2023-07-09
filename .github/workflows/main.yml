@@ -12,17 +12,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: List Content
-        run: |
-          echo "### Repository Content" > README.md
-          echo "" >> README.md
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
 
-          for d in */; do
-            echo "- \${d%/}" >> README.md
-            (cd \${d} && for f in *; do
-              echo "  - [\${f}](\${f})" >> ../README.md
-            done)
-          done
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: List Content
+        run: python generate_readme.py
 
       - name: Commit Changes
         run: |
