@@ -5,6 +5,7 @@
   - [next_greater_element_i.cpp](stack/next_greater_element_i.cpp)
   - [balenced_parenthesis.cpp](stack/balenced_parenthesis.cpp)
 - binary_search
+  - [first_and_last_occurence_of_element.cpp](binary_search/first_and_last_occurence_of_element.cpp)
   - [binary_search.cpp](binary_search/binary_search.cpp)
   - [search_insert_position.cpp](binary_search/search_insert_position.cpp)
   - [lower_bound.cpp](binary_search/lower_bound.cpp)
