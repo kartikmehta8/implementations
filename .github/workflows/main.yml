@@ -19,11 +19,9 @@ jobs:
 
           for d in */; do
             echo "- \${d%/}" >> README.md
-            cd \${d}
-            for f in *; do
+            (cd \${d} && for f in *; do
               echo "  - [\${f}](\${f})" >> ../README.md
-            done
-            cd ..
+            done)
           done
 
       - name: Commit Changes
