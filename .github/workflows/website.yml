@@ -14,11 +14,12 @@ jobs:
     
     - name: Install highlight
       run: sudo apt-get install -y highlight
+      
+    - name: Make Directory Docs
+      run: mkdir -p docs
     
     - name: Generate Markdown files
-      run: |
-        mkdir -p docs
-        find . -name '*.cpp' -type f -exec sh -c 'highlight -O html -s monokai "{}" > "docs/${1%.cpp}.md"' _ {} \;
+      run: find . -name '*.cpp' -type f -exec sh -c 'highlight -O html -s monokai "{}" > "docs/${1%.cpp}.md"' _ {} \;
 
     - name: Create index file
       run: echo "- [Home](README.md)" > docs/_index.md
