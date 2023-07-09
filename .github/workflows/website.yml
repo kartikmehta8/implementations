@@ -23,11 +23,13 @@ jobs:
           gem install bundler
           bundle install
           
-      - name: Fetch latest changes
-        run: git fetch
-
-      - name: Switch to main branch
-        run: git checkout main
+      - name: Branch
+        run: |
+          git branch -m master main
+          git push -u origin main
+          git add .
+          git commit -m "jekyll_website"
+          git push origin main
 
       - name: Build and deploy
         run: |
