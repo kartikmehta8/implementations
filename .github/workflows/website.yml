@@ -39,6 +39,6 @@ jobs:
           git add .
           git commit -m "Deploy website"
           git fetch
-          git rebase origin/gh-pages
+          git rebase origin/main
           git rebase --continue
           git push --force origin gh-pages
