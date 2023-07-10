@@ -23,12 +23,6 @@ jobs:
           gem install bundler
           bundle install
           
-      - name: Branch
-        run: |
-          git config --global init.defaultBranch main
-          git checkout main
-          git pull origin main
-
       - name: Build and deploy
         run: |
           bundle exec jekyll build --destination ./_site
