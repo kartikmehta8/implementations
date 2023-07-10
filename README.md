@@ -13,6 +13,7 @@
   - [binary_search.cpp](binary_search/binary_search.cpp)
   - [search_insert_position.cpp](binary_search/search_insert_position.cpp)
   - [lower_bound.cpp](binary_search/lower_bound.cpp)
+  - [square_root_of_a_number.cpp](binary_search/square_root_of_a_number.cpp)
   - [upper_bound.cpp](binary_search/upper_bound.cpp)
   - [find_how_many_times_array_is_rotated.cpp](binary_search/find_how_many_times_array_is_rotated.cpp)
   - [ceil_and_floor.cpp](binary_search/ceil_and_floor.cpp)
@@ -35,6 +36,7 @@
   - [next_permutation.cpp](arrays/next_permutation.cpp)
   - [second_largest_element.cpp](arrays/second_largest_element.cpp)
   - [leaders_in_an_array.cpp](arrays/leaders_in_an_array.cpp)
+  - [majority_element_ii.cpp](arrays/majority_element_ii.cpp)
 - tries
   - [implement_trie.cpp](tries/implement_trie.cpp)
   - [implement_trie_ii.cpp](tries/implement_trie_ii.cpp)
