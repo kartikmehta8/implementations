@@ -24,7 +24,9 @@ jobs:
           bundle install
          
       - name: Branch
-        run: git branch
+        run: | 
+          git branch
+          git checkout -b gh-pages
          
       - name: Build and deploy
         run: |
