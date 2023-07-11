@@ -4,6 +4,12 @@
   - [implement_stack.cpp](stack/implement_stack.cpp)
   - [next_greater_element_i.cpp](stack/next_greater_element_i.cpp)
   - [balenced_parenthesis.cpp](stack/balenced_parenthesis.cpp)
+- sorting_leetcode
+  - [kth_largest_element_in_an_array.cpp](sorting_leetcode/kth_largest_element_in_an_array.cpp)
+  - [sort_colors.cpp](sorting_leetcode/sort_colors.cpp)
+  - [sort_an_array.cpp](sorting_leetcode/sort_an_array.cpp)
+  - [height_checker.cpp](sorting_leetcode/height_checker.cpp)
+  - [insertion_sort.cpp](sorting_leetcode/insertion_sort.cpp)
 - binary_search
   - [search_in_rotated_sorted_array_i.cpp](binary_search/search_in_rotated_sorted_array_i.cpp)
   - [search_in_rotated_sorted_array_ii.cpp](binary_search/search_in_rotated_sorted_array_ii.cpp)
