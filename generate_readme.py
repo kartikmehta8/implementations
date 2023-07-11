@@ -8,7 +8,7 @@ def generate_content():
             if root == '.':
                 continue
             directory = root.lstrip('./')
-            if directory in ["arrays", "binary_search", "hashing", "stack", "tries"]:
+            if directory in ["arrays", "binary_search", "hashing", "stack", "tries", "sorting_leetcode"]:
                 readme.write(f"- {directory}\n")
             
                 for file in files:
