@@ -4,7 +4,7 @@
 
 ### STACK
 - [Implement Stack](stack/implement_stack.cpp)
-- [Next Greater Element I](stack/next_greater_element_i.cpp)
+- [Next Greater Element 1](stack/next_greater_element_1.cpp)
 - [Balenced Parenthesis](stack/balenced_parenthesis.cpp)
 ### SORTING LEETCODE
 - [Kth Largest Element In An Array](sorting_leetcode/kth_largest_element_in_an_array.cpp)
@@ -13,14 +13,14 @@
 - [Height Checker](sorting_leetcode/height_checker.cpp)
 - [Insertion Sort](sorting_leetcode/insertion_sort.cpp)
 ### BINARY SEARCH
-- [Search In Rotated Sorted Array I](binary_search/search_in_rotated_sorted_array_i.cpp)
-- [Search In Rotated Sorted Array Ii](binary_search/search_in_rotated_sorted_array_ii.cpp)
+- [Search In Rotated Sorted Array 1](binary_search/search_in_rotated_sorted_array_1.cpp)
 - [Find Minimum In Rotated Sorted Array](binary_search/find_minimum_in_rotated_sorted_array.cpp)
 - [Single Element In A Sorted Array](binary_search/single_element_in_a_sorted_array.cpp)
 - [First And Last Occurence Of Element](binary_search/first_and_last_occurence_of_element.cpp)
 - [Binary Search](binary_search/binary_search.cpp)
 - [Search Insert Position](binary_search/search_insert_position.cpp)
 - [Lower Bound](binary_search/lower_bound.cpp)
+- [Search In Rotated Sorted Array 2](binary_search/search_in_rotated_sorted_array_2.cpp)
 - [Square Root Of A Number](binary_search/square_root_of_a_number.cpp)
 - [Upper Bound](binary_search/upper_bound.cpp)
 - [Find How Many Times Array Is Rotated](binary_search/find_how_many_times_array_is_rotated.cpp)
@@ -29,7 +29,6 @@
 - [Missing Number](arrays/missing_number.cpp)
 - [Intersection Of Two Elements](arrays/intersection_of_two_elements.cpp)
 - [Union Of Two Arrays](arrays/union_of_two_arrays.cpp)
-- [Majority Element](arrays/majority_element.cpp)
 - [Maximum Consecutive Number Of Ones](arrays/maximum_consecutive_number_of_ones.cpp)
 - [Rotate Array By D Places](arrays/rotate_array_by_d_places.cpp)
 - [Kadane Algorithm](arrays/kadane_algorithm.cpp)
@@ -43,11 +42,12 @@
 - [Two Sum](arrays/two_sum.cpp)
 - [Next Permutation](arrays/next_permutation.cpp)
 - [Second Largest Element](arrays/second_largest_element.cpp)
+- [Majority Element 1](arrays/majority_element_1.cpp)
+- [Majority Element 2](arrays/majority_element_2.cpp)
 - [Leaders In An Array](arrays/leaders_in_an_array.cpp)
-- [Majority Element Ii](arrays/majority_element_ii.cpp)
 ### TRIES
+- [Implement Trie 2](tries/implement_trie_2.cpp)
 - [Implement Trie](tries/implement_trie.cpp)
-- [Implement Trie Ii](tries/implement_trie_ii.cpp)
 ### HASHING
 - [Longest Substring Without Repeating Characters](hashing/longest_substring_without_repeating_characters.cpp)
 - [Four Sum](hashing/four_sum.cpp)
