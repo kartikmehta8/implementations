@@ -1,7 +1,5 @@
 ## Implementations
 
-![BANNER](https://github.com/kartikmehta8/githubLearning/assets/77505989/85995645-56a5-4d8d-8e9e-87dae21bddd9)
-
 ### STACK
 - [Implement Stack](stack/implement_stack.cpp)
 - [Next Greater Element 1](stack/next_greater_element_1.cpp)
