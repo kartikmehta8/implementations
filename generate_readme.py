@@ -4,7 +4,6 @@ import string
 def generate_content():
     with open('README.md', 'w') as readme:
         readme.write('## Implementations\n\n')
-        readme.write('![BANNER](https://github.com/kartikmehta8/githubLearning/assets/77505989/85995645-56a5-4d8d-8e9e-87dae21bddd9)\n\n')
         
         for root, dirs, files in os.walk('.'):
             if root == '.':
