@@ -9,6 +9,8 @@
 - [Sort Colors](sorting_leetcode/sort_colors.cpp)
 - [Sort An Array](sorting_leetcode/sort_an_array.cpp)
 - [Height Checker](sorting_leetcode/height_checker.cpp)
+- [Max Gap](sorting_leetcode/max_gap.cpp)
+- [Minimum Absolute Difference](sorting_leetcode/minimum_absolute_difference.cpp)
 - [Insertion Sort](sorting_leetcode/insertion_sort.cpp)
 ### BINARY SEARCH
 - [Search In Rotated Sorted Array 1](binary_search/search_in_rotated_sorted_array_1.cpp)
