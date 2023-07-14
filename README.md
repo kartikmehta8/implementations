@@ -78,7 +78,7 @@
 - [Two Sum](hashing/two_sum.cpp)
 
 
-## Total Problems Solved: 68
+<h3><p align="center">68 problems solved till July 14, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
