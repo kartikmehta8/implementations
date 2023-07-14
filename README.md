@@ -10,8 +10,11 @@
 - [Fibonacci Number](recursion_leetcode/fibonacci_number.cpp)
 - [Power N Of X](recursion_leetcode/power_n_of_x.cpp)
 ### STACK
+- [Minimum Remove To Make Valid Parenthesis](stack/minimum_remove_to_make_valid_parenthesis.cpp)
 - [Implement Stack](stack/implement_stack.cpp)
 - [Next Greater Element 1](stack/next_greater_element_1.cpp)
+- [Minimum Number Of Swaps To Make String Balanced](stack/minimum_number_of_swaps_to_make_string_balanced.cpp)
+- [Minimum Add To Make Parenthesis Valid](stack/minimum_add_to_make_parenthesis_valid.cpp)
 - [Balenced Parenthesis](stack/balenced_parenthesis.cpp)
 ### SORTING LEETCODE
 - [Kth Largest Element In An Array](sorting_leetcode/kth_largest_element_in_an_array.cpp)
@@ -22,6 +25,14 @@
 - [Max Gap](sorting_leetcode/max_gap.cpp)
 - [Minimum Absolute Difference](sorting_leetcode/minimum_absolute_difference.cpp)
 - [Insertion Sort](sorting_leetcode/insertion_sort.cpp)
+### STRINGS
+- [Maximum Nesting Depth Of The Parenthesis](strings/maximum_nesting_depth_of_the_parenthesis.cpp)
+- [Longest Common Prefix](strings/longest_common_prefix.cpp)
+- [Rotate String](strings/rotate_string.cpp)
+- [Reverse Words In A String](strings/reverse_words_in_a_string.cpp)
+- [Anagram Pairs](strings/anagram_pairs.cpp)
+- [Largest Odd Number In A String](strings/largest_odd_number_in_a_string.cpp)
+- [Isomorphic Strings](strings/isomorphic_strings.cpp)
 ### BINARY SEARCH
 - [Search In Rotated Sorted Array 1](binary_search/search_in_rotated_sorted_array_1.cpp)
 - [Find Minimum In Rotated Sorted Array](binary_search/find_minimum_in_rotated_sorted_array.cpp)
