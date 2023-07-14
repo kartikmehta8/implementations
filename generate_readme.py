@@ -1,5 +1,6 @@
 import os
 import string
+from datetime import date
 
 def generate_content():
     with open('README.md', 'w') as readme:
@@ -26,7 +27,10 @@ def generate_content():
                     fi = string.capwords(fi, sep=None)
                     readme.write(f"- [{fi}]({os.path.join(directory, file)})\n")
 
-        readme.write(f'\n\n## Total Problems Solved: {num_of_files}\n\n')
+        today = date.today()
+        d = today.strftime("%B %d, %Y")
+        
+        readme.write(f'\n\n<h3><p align="center">{num_of_files} problems solved till {d}</p></h3>\n\n')
         readme.write('<h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>\n\n')
         readme.write('<h6><p align="center">Automated by GitHub Actions</p></h6>')
 
