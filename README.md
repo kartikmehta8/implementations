@@ -76,6 +76,8 @@
 - [Longest Consecutive Sequence](hashing/longest_consecutive_sequence.cpp)
 - [Job Sequencing Problem](hashing/job_sequencing_problem.cpp)
 - [Two Sum](hashing/two_sum.cpp)
+##Total Problems Solved: 68
+
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
 <h6><p align="center">Automated by GitHub Actions</p></h6>
