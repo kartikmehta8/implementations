@@ -12,6 +12,7 @@
 ### STACK
 - [Minimum Remove To Make Valid Parenthesis](stack/minimum_remove_to_make_valid_parenthesis.cpp)
 - [Implement Stack](stack/implement_stack.cpp)
+- [Maximum Nesting Depth Of Parenthesis](stack/maximum_nesting_depth_of_parenthesis.cpp)
 - [Next Greater Element 1](stack/next_greater_element_1.cpp)
 - [Minimum Number Of Swaps To Make String Balanced](stack/minimum_number_of_swaps_to_make_string_balanced.cpp)
 - [Minimum Add To Make Parenthesis Valid](stack/minimum_add_to_make_parenthesis_valid.cpp)
@@ -26,6 +27,7 @@
 - [Minimum Absolute Difference](sorting_leetcode/minimum_absolute_difference.cpp)
 - [Insertion Sort](sorting_leetcode/insertion_sort.cpp)
 ### STRINGS
+- [Implement Atoi Function](strings/implement_atoi_function.cpp)
 - [Maximum Nesting Depth Of The Parenthesis](strings/maximum_nesting_depth_of_the_parenthesis.cpp)
 - [Longest Common Prefix](strings/longest_common_prefix.cpp)
 - [Rotate String](strings/rotate_string.cpp)
@@ -46,6 +48,15 @@
 - [Upper Bound](binary_search/upper_bound.cpp)
 - [Find How Many Times Array Is Rotated](binary_search/find_how_many_times_array_is_rotated.cpp)
 - [Ceil And Floor](binary_search/ceil_and_floor.cpp)
+### LINK LIST
+- [Length Of Link List](link_list/length_of_link_list.cpp)
+- [Delete Last Node Of Doubly Link List](link_list/delete_last_node_of_doubly_link_list.cpp)
+- [Insert At End Of Doubly Link List](link_list/insert_at_end_of_doubly_link_list.cpp)
+- [Reverse A Doubly Link List](link_list/reverse_a_doubly_link_list.cpp)
+- [Insert Node At The Beginning](link_list/insert_node_at_the_beginning.cpp)
+- [Delete Last Node](link_list/delete_last_node.cpp)
+- [Middle Of Link List](link_list/middle_of_link_list.cpp)
+- [Search In A Link List](link_list/search_in_a_link_list.cpp)
 ### ARRAYS
 - [Missing Number](arrays/missing_number.cpp)
 - [Intersection Of Two Elements](arrays/intersection_of_two_elements.cpp)
@@ -78,7 +89,7 @@
 - [Two Sum](hashing/two_sum.cpp)
 
 
-<h3><p align="center">68 problems solved till July 14, 2023</p></h3>
+<h3><p align="center">78 problems solved till July 15, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
