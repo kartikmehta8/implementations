@@ -52,11 +52,16 @@
 - [Length Of Link List](link_list/length_of_link_list.cpp)
 - [Delete Last Node Of Doubly Link List](link_list/delete_last_node_of_doubly_link_list.cpp)
 - [Insert At End Of Doubly Link List](link_list/insert_at_end_of_doubly_link_list.cpp)
+- [Check If Link List Is Palindrome](link_list/check_if_link_list_is_palindrome.cpp)
 - [Reverse A Doubly Link List](link_list/reverse_a_doubly_link_list.cpp)
+- [Cycle Detection In Singly Link List](link_list/cycle_detection_in_singly_link_list.cpp)
 - [Insert Node At The Beginning](link_list/insert_node_at_the_beginning.cpp)
 - [Delete Last Node](link_list/delete_last_node.cpp)
 - [Middle Of Link List](link_list/middle_of_link_list.cpp)
+- [Iterative Link List Reverse](link_list/iterative_link_list_reverse.cpp)
 - [Search In A Link List](link_list/search_in_a_link_list.cpp)
+- [Find Length Of Loop](link_list/find_length_of_loop.cpp)
+- [Link List Cycle 2](link_list/link_list_cycle_2.cpp)
 ### ARRAYS
 - [Missing Number](arrays/missing_number.cpp)
 - [Intersection Of Two Elements](arrays/intersection_of_two_elements.cpp)
@@ -89,7 +94,7 @@
 - [Two Sum](hashing/two_sum.cpp)
 
 
-<h3><p align="center">78 problems solved till July 15, 2023</p></h3>
+<h3><p align="center">83 problems solved till July 15, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
