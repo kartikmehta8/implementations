@@ -9,6 +9,11 @@
 - [Search In A Binary Search Tree](recursion_leetcode/search_in_a_binary_search_tree.cpp)
 - [Fibonacci Number](recursion_leetcode/fibonacci_number.cpp)
 - [Power N Of X](recursion_leetcode/power_n_of_x.cpp)
+### BINARY TREE
+- [Postorder Traversal](binary_tree/postorder_traversal.cpp)
+- [Preorder Traversal](binary_tree/preorder_traversal.cpp)
+- [Inorder Traversal](binary_tree/inorder_traversal.cpp)
+- [All Tree Traversals](binary_tree/all_tree_traversals.cpp)
 ### STACK
 - [Minimum Remove To Make Valid Parenthesis](stack/minimum_remove_to_make_valid_parenthesis.cpp)
 - [Implement Stack](stack/implement_stack.cpp)
@@ -94,7 +99,7 @@
 - [Two Sum](hashing/two_sum.cpp)
 
 
-<h3><p align="center">83 problems solved till July 15, 2023</p></h3>
+<h3><p align="center">87 problems solved till July 16, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
