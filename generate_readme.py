@@ -11,7 +11,7 @@ def generate_content():
             if root == '.':
                 continue
             directory = root.lstrip('./')
-            if directory in ["arrays", "binary_search", "hashing", "stack", "tries", "sorting_leetcode", "recursion_leetcode", "strings", "link_list", "binary_tree", "bit_manipulation"]:
+            if directory in ["arrays", "binary_search", "hashing", "stack", "tries", "sorting_leetcode", "recursion_leetcode", "strings", "link_list", "binary_tree", "bit_manipulation", "basics"]:
                 dire = directory.split("_")
                 dire = " ".join(dire)
                 dire = dire.upper()
