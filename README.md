@@ -109,9 +109,25 @@
 - [Longest Consecutive Sequence](hashing/longest_consecutive_sequence.cpp)
 - [Job Sequencing Problem](hashing/job_sequencing_problem.cpp)
 - [Two Sum](hashing/two_sum.cpp)
+### BASICS
+- [Count Digits](basics/count_digits.cpp)
+- [Check Prime](basics/check_prime.cpp)
+- [Else If](basics/else_if.cpp)
+- [Calculate Gcd](basics/calculate_gcd.cpp)
+- [Switch Case Statement](basics/switch_case_statement.cpp)
+- [Sum Of All Divisors](basics/sum_of_all_divisors.cpp)
+- [Functions](basics/functions.cpp)
+- [Data Type](basics/data_type.cpp)
+- [1 To N Without Loop](basics/1_to_n_without_loop.cpp)
+- [Sum Of Even And Odd](basics/sum_of_even_and_odd.cpp)
+- [Reverse Integer](basics/reverse_integer.cpp)
+- [Armstrong Number](basics/armstrong_number.cpp)
+- [Nth Fibonacci Number](basics/nth_fibonacci_number.cpp)
+- [Palindrome Number](basics/palindrome_number.cpp)
+- [Find Character Case](basics/find_character_case.cpp)
 
 
-<h3><p align="center">98 problems solved till July 20, 2023</p></h3>
+<h3><p align="center">113 problems solved till July 20, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
