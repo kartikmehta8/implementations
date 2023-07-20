@@ -11,9 +11,12 @@
 - [Power N Of X](recursion_leetcode/power_n_of_x.cpp)
 ### BINARY TREE
 - [Postorder Traversal](binary_tree/postorder_traversal.cpp)
+- [Diameter Of A Tree](binary_tree/diameter_of_a_tree.cpp)
 - [Preorder Traversal](binary_tree/preorder_traversal.cpp)
 - [Inorder Traversal](binary_tree/inorder_traversal.cpp)
+- [Height Of A Binary Tree](binary_tree/height_of_a_binary_tree.cpp)
 - [All Tree Traversals](binary_tree/all_tree_traversals.cpp)
+- [Level Order Traversal](binary_tree/level_order_traversal.cpp)
 ### STACK
 - [Minimum Remove To Make Valid Parenthesis](stack/minimum_remove_to_make_valid_parenthesis.cpp)
 - [Implement Stack](stack/implement_stack.cpp)
@@ -53,6 +56,15 @@
 - [Upper Bound](binary_search/upper_bound.cpp)
 - [Find How Many Times Array Is Rotated](binary_search/find_how_many_times_array_is_rotated.cpp)
 - [Ceil And Floor](binary_search/ceil_and_floor.cpp)
+### BIT MANIPULATION
+- [Swap Two Numbers](bit_manipulation/swap_two_numbers.cpp)
+- [Divide Two Integers](bit_manipulation/divide_two_integers.cpp)
+- [Count Set Bits](bit_manipulation/count_set_bits.cpp)
+- [Check Kth Bit Is Set Or Not](bit_manipulation/check_kth_bit_is_set_or_not.cpp)
+- [Odd Even](bit_manipulation/odd_even.cpp)
+- [Power Of Two](bit_manipulation/power_of_two.cpp)
+- [Set The Rightmost Unset Bit](bit_manipulation/set_the_rightmost_unset_bit.cpp)
+- [Introduction](bit_manipulation/introduction.cpp)
 ### LINK LIST
 - [Length Of Link List](link_list/length_of_link_list.cpp)
 - [Delete Last Node Of Doubly Link List](link_list/delete_last_node_of_doubly_link_list.cpp)
@@ -99,7 +111,7 @@
 - [Two Sum](hashing/two_sum.cpp)
 
 
-<h3><p align="center">87 problems solved till July 16, 2023</p></h3>
+<h3><p align="center">98 problems solved till July 20, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
