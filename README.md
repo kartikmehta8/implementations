@@ -31,9 +31,12 @@
 - [Top K Frequent Elements](sorting_leetcode/top_k_frequent_elements.cpp)
 - [Sort An Array](sorting_leetcode/sort_an_array.cpp)
 - [Height Checker](sorting_leetcode/height_checker.cpp)
+- [Bubble Sort](sorting_leetcode/bubble_sort.cpp)
 - [Max Gap](sorting_leetcode/max_gap.cpp)
 - [Minimum Absolute Difference](sorting_leetcode/minimum_absolute_difference.cpp)
 - [Insertion Sort](sorting_leetcode/insertion_sort.cpp)
+- [Insertion Sort Array](sorting_leetcode/insertion_sort_array.cpp)
+- [Selection Sort](sorting_leetcode/selection_sort.cpp)
 ### STRINGS
 - [Implement Atoi Function](strings/implement_atoi_function.cpp)
 - [Maximum Nesting Depth Of The Parenthesis](strings/maximum_nesting_depth_of_the_parenthesis.cpp)
@@ -80,8 +83,10 @@
 - [Find Length Of Loop](link_list/find_length_of_loop.cpp)
 - [Link List Cycle 2](link_list/link_list_cycle_2.cpp)
 ### ARRAYS
+- [Largest Element In An Array](arrays/largest_element_in_an_array.cpp)
 - [Missing Number](arrays/missing_number.cpp)
 - [Intersection Of Two Elements](arrays/intersection_of_two_elements.cpp)
+- [Left Rotate Array By 1](arrays/left_rotate_array_by_1.cpp)
 - [Union Of Two Arrays](arrays/union_of_two_arrays.cpp)
 - [Maximum Consecutive Number Of Ones](arrays/maximum_consecutive_number_of_ones.cpp)
 - [Rotate Array By D Places](arrays/rotate_array_by_d_places.cpp)
@@ -92,12 +97,14 @@
 - [Rearrange Elements By Sign](arrays/rearrange_elements_by_sign.cpp)
 - [Best Time To Buy And Sell Stock](arrays/best_time_to_buy_and_sell_stock.cpp)
 - [Find The Element That Appear Once](arrays/find_the_element_that_appear_once.cpp)
+- [Check If Array Is Sorted](arrays/check_if_array_is_sorted.cpp)
 - [Move Zeros](arrays/move_zeros.cpp)
 - [Two Sum](arrays/two_sum.cpp)
 - [Next Permutation](arrays/next_permutation.cpp)
 - [Second Largest Element](arrays/second_largest_element.cpp)
 - [Majority Element 1](arrays/majority_element_1.cpp)
 - [Majority Element 2](arrays/majority_element_2.cpp)
+- [Linear Search](arrays/linear_search.cpp)
 - [Leaders In An Array](arrays/leaders_in_an_array.cpp)
 ### TRIES
 - [Implement Trie 2](tries/implement_trie_2.cpp)
@@ -111,23 +118,32 @@
 - [Two Sum](hashing/two_sum.cpp)
 ### BASICS
 - [Count Digits](basics/count_digits.cpp)
+- [Sum Of First N Numbers](basics/sum_of_first_n_numbers.cpp)
 - [Check Prime](basics/check_prime.cpp)
+- [Factorial](basics/factorial.cpp)
 - [Else If](basics/else_if.cpp)
+- [Highest Lowest Frequency Elements](basics/highest_lowest_frequency_elements.cpp)
 - [Calculate Gcd](basics/calculate_gcd.cpp)
 - [Switch Case Statement](basics/switch_case_statement.cpp)
 - [Sum Of All Divisors](basics/sum_of_all_divisors.cpp)
+- [Reverse An Array](basics/reverse_an_array.cpp)
+- [N To 1 Without Loop](basics/n_to_1_without_loop.cpp)
 - [Functions](basics/functions.cpp)
+- [Print Fibonacci Series](basics/print_fibonacci_series.cpp)
 - [Data Type](basics/data_type.cpp)
+- [Code Frequency In A Range](basics/code_frequency_in_a_range.cpp)
 - [1 To N Without Loop](basics/1_to_n_without_loop.cpp)
 - [Sum Of Even And Odd](basics/sum_of_even_and_odd.cpp)
 - [Reverse Integer](basics/reverse_integer.cpp)
 - [Armstrong Number](basics/armstrong_number.cpp)
 - [Nth Fibonacci Number](basics/nth_fibonacci_number.cpp)
+- [Print N Times](basics/print_n_times.cpp)
 - [Palindrome Number](basics/palindrome_number.cpp)
+- [Check Palindrome Recursive](basics/check_palindrome_recursive.cpp)
 - [Find Character Case](basics/find_character_case.cpp)
 
 
-<h3><p align="center">113 problems solved till July 20, 2023</p></h3>
+<h3><p align="center">129 problems solved till July 21, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
