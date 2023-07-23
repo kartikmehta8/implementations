@@ -143,7 +143,7 @@
 - [Find Character Case](basics/find_character_case.cpp)
 
 
-<h3><p align="center">129 problems solved till July 21, 2023</p></h3>
+<h3><p align="center">129 problems solved till July 23, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
