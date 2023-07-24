@@ -47,7 +47,10 @@
 - [Largest Odd Number In A String](strings/largest_odd_number_in_a_string.cpp)
 - [Isomorphic Strings](strings/isomorphic_strings.cpp)
 ### BINARY SEARCH
+- [Search In A Sorted 2d Matrix](binary_search/search_in_a_sorted_2D_matrix.cpp)
 - [Search In Rotated Sorted Array 1](binary_search/search_in_rotated_sorted_array_1.cpp)
+- [Search In A 2d Matrix](binary_search/search_in_a_2D_matrix.cpp)
+- [Row With Max 1](binary_search/row_with_max_1.cpp)
 - [Find Minimum In Rotated Sorted Array](binary_search/find_minimum_in_rotated_sorted_array.cpp)
 - [Single Element In A Sorted Array](binary_search/single_element_in_a_sorted_array.cpp)
 - [First And Last Occurence Of Element](binary_search/first_and_last_occurence_of_element.cpp)
@@ -56,6 +59,7 @@
 - [Lower Bound](binary_search/lower_bound.cpp)
 - [Search In Rotated Sorted Array 2](binary_search/search_in_rotated_sorted_array_2.cpp)
 - [Square Root Of A Number](binary_search/square_root_of_a_number.cpp)
+- [Number Of Occurences](binary_search/number_of_occurences.cpp)
 - [Upper Bound](binary_search/upper_bound.cpp)
 - [Find How Many Times Array Is Rotated](binary_search/find_how_many_times_array_is_rotated.cpp)
 - [Ceil And Floor](binary_search/ceil_and_floor.cpp)
@@ -71,8 +75,10 @@
 ### LINK LIST
 - [Length Of Link List](link_list/length_of_link_list.cpp)
 - [Delete Last Node Of Doubly Link List](link_list/delete_last_node_of_doubly_link_list.cpp)
+- [Delete Middle Node Of Link List](link_list/delete_middle_node_of_link_list.cpp)
 - [Insert At End Of Doubly Link List](link_list/insert_at_end_of_doubly_link_list.cpp)
 - [Check If Link List Is Palindrome](link_list/check_if_link_list_is_palindrome.cpp)
+- [Introduction To Doubly Link List](link_list/introduction_to_doubly_link_list.cpp)
 - [Reverse A Doubly Link List](link_list/reverse_a_doubly_link_list.cpp)
 - [Cycle Detection In Singly Link List](link_list/cycle_detection_in_singly_link_list.cpp)
 - [Insert Node At The Beginning](link_list/insert_node_at_the_beginning.cpp)
@@ -80,6 +86,8 @@
 - [Middle Of Link List](link_list/middle_of_link_list.cpp)
 - [Iterative Link List Reverse](link_list/iterative_link_list_reverse.cpp)
 - [Search In A Link List](link_list/search_in_a_link_list.cpp)
+- [Introduction To Link List](link_list/introduction_to_link_list.cpp)
+- [Sort Link List](link_list/sort_link_list.cpp)
 - [Find Length Of Loop](link_list/find_length_of_loop.cpp)
 - [Link List Cycle 2](link_list/link_list_cycle_2.cpp)
 ### ARRAYS
@@ -143,7 +151,7 @@
 - [Find Character Case](basics/find_character_case.cpp)
 
 
-<h3><p align="center">129 problems solved till July 23, 2023</p></h3>
+<h3><p align="center">137 problems solved till July 24, 2023</p></h3>
 
 <h3><p align="center">Implemented with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a></p></h3>
 
